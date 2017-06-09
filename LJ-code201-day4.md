@@ -1,6 +1,6 @@
 ## Daily Learning Journal
 
-# LJ Code 201 - 6/8
+# LJ Code 201 - Day 4
 
 Day 4 of Code Fellows, and so far so good.  The daily assignments were on a war path most of this week, except today.  Today we learned about functions.  Which, not for nothing, is something we've had a lot of practice in from the prework, I'm not complaining though.  I actually really appreciated the break, even if it were for just a day.  We also did some work in a "Pair Programming" enviornment, which was challenging but fun.
 
