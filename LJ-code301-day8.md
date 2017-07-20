@@ -1,0 +1,5 @@
+# Daily Learning Journal
+
+## LJ code 301 Day 8
+
+Today we started learning about SQL!  This was the subject I was most excited for and so far it's pretty awesome.  Getting a taste of what a "back-end" language is like is cool, and exciting because it's one of the skills I remember reading about on the job description from Microsoft.  I'm a bit confused on some of the reading we've had to do on this subject, but I'm sure tomorrow's lecture will clear that up.  Tyler and I got the chance to work together for pair programming, it went well.  I like working with Tyler, cause like me, he doesn't come from a technical background, and has a lot of the same struggles I have with some of the lessons.  And at the same time there are things that I can grasp better than he and visa verse.  So trading knowledge works out well too.  I'm seriously loving the pair programming we do everyday, getting the chance to work with someone new and learning from them has been a powerful tool this class. Can't wait to see who I'll be working with tomorrow!
