@@ -1,0 +1,5 @@
+# Daily Learning Journal
+
+## LJ code 301 Day 10
+
+Today we learned about "Functional Programming". A concept I still don't quite understand.  I get that using "functional programming" makes for better performance in running a site, and the idea of IIFE's(which are functions that are immediately invoked, hence the II in IIFE).  But the lab we worked on today made me feel like I don't understand squat.  And working with Don made me feel even worse.  I have a ton of respect for that guy, and I appreciate him trying to help me gain a better understanding.  But when he explains things, he uses phrases like "self explanatory" when the things we're working on is anything but(at least to me).  Really makes me feel like I don't belong.  Similar to how I felt at this time in 201, I just really need a breakthrough.  On the up side though, I have been learning a ton about Regex through Code Wars, and even figured out how to write some complicated validators.  Now if only that knowledge could somehow help me with the last two subjects, SQL and functional programming. 
